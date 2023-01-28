@@ -1,6 +1,7 @@
 
 
-Use Overfiting to Evaluate different Model
+Use Overfiting to Evaluate different Model:
+
 Overfitting, underfitting, and the bias-variance tradeoff are foundational concepts in machine learning. A model is overfit if performance on the training data, used to fit the model, is substantially better than performance on a test set, held out from the model training process. 
 
 At the opposite end of the spectrum, if a model is not fitting the training data very well, this is known as underfitting, and the model is said to have high bias.
