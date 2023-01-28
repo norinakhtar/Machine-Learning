@@ -8,5 +8,6 @@ At the opposite end of the spectrum, if a model is not fitting the training data
 
 
 
-Google slide link
+Google slide link:
+
 https://docs.google.com/presentation/d/1dXJ_aWxJm4F0o25_H8RY0Cg-KAw_V3gBLKyEJNIDw6I/edit#slide=id.g1fc10ea6fba_0_17
