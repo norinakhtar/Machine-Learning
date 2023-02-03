@@ -1,0 +1,9 @@
+k-Nearest-Neighbors (k-NN) 
+
+k-Nearest-Neighbors (k-NN) is a supervised machine learning model. Supervised learning is when a model 
+learns from data that is already labeled. A supervised learning model takes in a set of input objects and 
+output values. The model then trains on that data to learn how to map the inputs to the desired output so it can learn to make 
+predictions on unseen data.
+
+
+google slide links: https://docs.google.com/presentation/d/1yE8W9WEmkUGdhjIOI0BXPIegaYnIq0WSIjxL0k5Jwp0/edit#slide=id.gcb9a0b074_1_0
